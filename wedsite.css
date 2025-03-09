@@ -66,4 +66,13 @@ li{
     margin-bottom: 5px;
     background-size: cover;
 }
-
+.foot{
+    width: 100%;
+    height: 45px;
+    margin-bottom: 0px;
+    background-color: rgb(91, 94, 86);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
